@@ -1,1 +1,1 @@
-# dnd-npc-randomizer
+# ttrpg-npc-randomizer
